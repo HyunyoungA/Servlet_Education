@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="MRU_RUNTIME_STORE">
+		<item value="ELJSTLServer"/>
+		<item value="AjaxServer"/>
+		<item value="JSPServletServer"/>
+		<item value="JSPServer"/>
+		<item value="ServletServer"/>
+	</list>
+</section>

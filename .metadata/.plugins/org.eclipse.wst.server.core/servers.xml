@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ServletServer-config" deployDir="wtpwebapps" hostname="localhost" id="ServletServer" name="ServletServer" runtime-id="ServletServer" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="1_Servlet::org.eclipse.jst.jee.server:1_Servlet::jst.web::4.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/JSPServer-config" deployDir="wtpwebapps" hostname="localhost" id="JSPServer" name="JSPServer" runtime-id="JSPServer" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="1">
+    <list key="modules" value0="2_JSP::org.eclipse.jst.jee.server:2_JSP::jst.web::4.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/JSPServletServer-config" deployDir="wtpwebapps" hostname="localhost" id="JSPServletServer" name="JSPServletServer" runtime-id="JSPServletServer" serveModulesWithoutPublish="true" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
+    <list key="modules" value0="3_JSPServlet::org.eclipse.jst.jee.server:3_JSPServlet::jst.web::4.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/AjaxServer-config" deployDir="wtpwebapps" hostname="localhost" id="AjaxServer" name="AjaxServer" runtime-id="AjaxServer" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+    <list key="modules" value0="4_Ajax::org.eclipse.jst.jee.server:4_Ajax::jst.web::4.0"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/ELJSTLServer-config" deployDir="wtpwebapps" hostname="localhost" id="ELJSTLServer" name="ELJSTLServer" runtime-id="ELJSTLServer" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="2">
+    <list key="modules" value0="5_EL_JSTL::org.eclipse.jst.jee.server:5_EL_JSTL::jst.web::4.0"/>
+  </server>
+</servers>
